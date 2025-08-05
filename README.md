@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Farhan Reza</h1>
 <h3 align="center">A passionate React developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfarhanreza&label=Profile%20views&color=0e75b6&style=flat" alt="syedfarhanreza" /> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on Bistro Boss<br><br>🌱 I’m currently learning Next.Js<br><br>💬 Ask me about Full Stack Developer<br><br>📫 How to reach me syedfarhanreza.pub16@gmail.com
 
