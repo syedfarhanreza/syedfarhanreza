@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React developer from Bangladesh</h3>
 
 # 💫 About Me:
-🔭 I’m currently working at Sigmative LLC<br><br>🌱 I’m currently learning Next.Js<br><br>💬 Ask me about Full Stack Developer<br><br>📫 How to reach me syedfarhanreza.pub16@gmail.com
+🌱 I’m currently learning Next.Js<br><br>💬 Ask me about Full Stack Developer<br><br>📫 How to reach me syedfarhanreza.pub16@gmail.com
 
 
 ## 🌐 Socials:
