@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
 # 💫 About Me:
-🌱  I’m currently learning Python,and AI/ML<br><br>💬 Ask me about Full Stack Developer<br><br>📫 How to reach me syedfarhanreza.pub16@gmail.com
+🌱  I’m currently learning Python,and AI/ML<br><br>💬 Ask me about Full Stack Developer<br><br>📫 How to reach me syedfarhanreza.pub16@gmail.com || syedfarhanreza.22@gmail.com<br><br> syedfarhanreza.com
 
 
 ## 🌐 Socials:
